@@ -3,7 +3,7 @@
 :root {
   --nativeColor: rgb(236, 217, 186);
   --secondaryColor: rgb(197, 181, 155);
-  --mainColor: rgb(255, 123, 22);
+  --mainColor: rgb(202, 0, 0);
   --border: 1px solid var(--secondaryColor);
 }
 
@@ -35,13 +35,13 @@
   }
   header h1 {
     float: left;
-    font-size: 18px;
+    font-size: 2em;
     font-family: "Staatliches";
     color: var(--mainColor);
   }
   header p {
     float: left;
-    font-size: 12px;
+    font-size: 1em;
     color: var(--mainColor);
     font-family: "Merienda One";
   }
